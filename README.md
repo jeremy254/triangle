@@ -3,7 +3,7 @@ This is a web application that is designed to take in three numbers and lets you
 The author to this project is : Jeremy Wambugu,a student at Moringa school
 |Behaviour                  | Input       | Output              |
 |--------------------------:|:-----------:|:--------------------
-|Not a triangle             | a+b<c       | cannot form
+|Not a triangle             | a+b<c       | Not a Triangle
 |Triangle with equal sides  |a=b=c        | Equilateral triangle
 |Triangle with 2 equal sides| a+b b+c c+a | Isosceles triangle
 |Triangle with no equal side| a!==b!==c   | Scalene triangle
