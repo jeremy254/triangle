@@ -1,6 +1,6 @@
 The Triangle Project
 This is a web application that is designed to take in three numbers and lets you know what kind of triangle you have from those digits.
-The author to this project is : Jeremy Wambugu,a student at Moringa school
+The author to this project is : Jeremy Wambugu,
 |Behaviour                  | Input       | Output              |
 |--------------------------:|:-----------:|:--------------------
 |Not a triangle             | a+b<c       | Not a Triangle
