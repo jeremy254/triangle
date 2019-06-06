@@ -1,6 +1,8 @@
-
+//
       var answer=function(){
-        var input=[];
+        var input1 =();
+        var input2=();
+        var input3=();
         
         input.push(parseFloat(prompt("Enter side A: ")));
          if (isNaN(input[0])=== true){
@@ -17,7 +19,7 @@
                if((input[0]+input[1])<=input[2] || (input[1]+input[2])<=input[0] || (input[0]+input[2])<=input[1]){
                    alert("Not a Triangle");
                }
-               else if(input[0]===input[1] && input[0]===input[2] && input[1]===input[2]){
+               else if(input[0]===input[1] && input[0===input[2] && input[1]===input[2]){
                    alert("Equilateral");
                }
                else if(input[0]===input[1] || input[1]===input[2] || input[0]===input[2]){
@@ -33,3 +35,4 @@
            }
          }
         } 
+        *//
